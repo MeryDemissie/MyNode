@@ -4,8 +4,10 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js",
-    "dev": "nodemon index.js"
+    "start": "node pro2.js",
+  "dev": "nodemon pro2.js",
+    "other1": "node new.js",
+    "existing": "node index.js"
   },
   "keywords": [],
   "author": "",
